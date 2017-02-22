@@ -1,0 +1,9 @@
+{
+  "name": "yarn-scoped-bin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@chrisblossom/yarn-scoped-pkg": "^0.0.1"
+  }
+}

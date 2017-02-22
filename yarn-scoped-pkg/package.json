@@ -1,0 +1,9 @@
+{
+  "name": "@chrisblossom/yarn-scoped-pkg",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.16.0"
+  }
+}
