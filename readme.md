@@ -1,5 +1,5 @@
 
-```js
+```
 ➜  yarn-scoped git:(master) ✗ cd yarn-scoped-bin
 
 ➜  yarn-scoped-bin git:(master) ✗ rm -rf node_modules
@@ -22,7 +22,7 @@ ls: node_modules/.bin: No such file or directory
 eslint
 ```
 
-```js
+```
 ➜  yarn-scoped-bin git:(master) ✗ npm --version
 3.10.1
 
