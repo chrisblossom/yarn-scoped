@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@chrisblossom/yarn-scoped-pkg": "^0.0.1"
+    "@chrisblossom/yarn-scoped-pkg": "0.0.2"
   }
 }

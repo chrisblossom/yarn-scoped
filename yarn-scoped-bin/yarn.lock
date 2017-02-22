@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@chrisblossom/yarn-scoped-pkg@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@chrisblossom/yarn-scoped-pkg/-/yarn-scoped-pkg-0.0.1.tgz#e3d7245d0972373ad857c1a6afcab71da6c7d671"
+"@chrisblossom/yarn-scoped-pkg@0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@chrisblossom/yarn-scoped-pkg/-/yarn-scoped-pkg-0.0.2.tgz#d6f1d2676fcfb4a7df9c952ff4a496aed21996b3"
   dependencies:
     eslint "^3.16.0"
 
